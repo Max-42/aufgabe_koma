@@ -1,0 +1,28 @@
+<!-- index.html -->
+
+<!-- Überschrift 3. Ordnung -->
+Komasaufen:
+<!-- Überschrift 1. Ordnung -->
+An der Front der Kampftrinker
+
+
+<!-- bearbeitete Bilder gemäß Vorlage einfügen -->
+
+<!-- Absatz "start" Beachten Sie die den Unterschied zu den folgenden Absätzen!-->
+Saufen – Jugendliche in Deutschland tun es immer früher und immer hochprozentiger. Nach dem Tod eines 16-Jährigen in Berlin fordern Politiker Konsequenzen. Nur welche? FOCUS-Reporter Wolfgang Bauer besuchte sieben Nächte die Front der Kampftrinker in Stuttgart.
+
+<!-- Absatz -->
+Die Flasche Wodka kreist bereits in der Warteschlange vor der Musikkneipe „Pflaumenbaum“ im Stuttgarter Westen. Mädchen kichern, Jungs grinsen, einige von ihnen lallen schon um 19 Uhr. „Es sind doch Ferien“, sagen sie zu mir. „Wir wollen doch nur Spaß.“ Die 16-jährige Anja, müdes Gesicht, dunkle Augenringe, ist schon seit Tagen auf der Piste, die Anlässe zum Saufen wechseln einander ab – Geburtstage, Gartenpartys, Konzerte. „Wir geben richtig Gas“, strahlt sie mit ihren drei Freundinnen. Heute wollen sie kübeln, weil das Kübeln am „Flatrate“-Tag im „Pflaumenbaum“ so günstig ist. Zehn Euro für Mädels, zwölfe für die Jungs, das kann sich auch ein noch so schmaler Schülergeldbeutel leisten. „Früher war der Donnerstag tot“, freut sich Betreiber Timo Bemsel. „Jetzt ist es der Wahnsinn.“ 
+
+<!-- Absatz -->
+Der Wahnsinn ist es auch für die Notaufnahme in Stuttgart, die in den letzten Jahren über eine drastische Zunahme von eingelieferten Jugendlichen klagt. Die Schwestern und Ärzte des Marienhospitals sind oft überfordert mit den besoffenen Kids, die im Behandlungszimmer randalieren, in die Blumentöpfe des Wartebereiches oder in Bücherregale pinkeln. Einige greifen Sanitäter an, es kommt immer häufiger zu Handgemengen in der Notaufnahme. „Näh mich endlich zu!“ raunzt ein 23-Jähriger die junge Ärztin an, die die Schnittwunde an seinem Kopf behandelt. Im Suff hat er sich im Irish Pub an einem Bierglas die Stirn aufgeschnitten. „Ich will hier raus und wieder saufen!“ Im Zimmer nebenan drückt ein Betrunkener einen anderen auf das Behandlungsbett. Der untere blutet aus Schnittwunden, will aber partout nicht bleiben. Stumm und erbarmungslos kämpfen die beiden ihren Kampf, bis die Schwestern die Polizei rufen, die dann mit Blaulicht kommt.
+
+<!-- Absatz -->
+Sieben Tage habe ich es für diese Reportage in der Nase: Eine Partynacht in Deutschland riecht nach Pisse, Erbrochenem und Kot. Das Nachtschwärmen nach ein Uhr morgens ist in den meisten Städten kein Vergnügen. Das Jugendschutzgesetz ist ein Trümmerhaufen aus Paragrafen. Viele Quellen sprudeln für Kinder und Jugendliche. Wer es mit Milchbubengesicht nicht in die Kneipen und Diskotheken schafft, lässt sich eine Ausnahmegenehmigung der Eltern von Freunden fälschen. Die nötigen Vordrucke stellen die meisten Diskos auf ihren Internetseiten bereit. Andere kaufen bei Tankstellen ein. In Stuttgarts Innenstadt machen die mehr Umsatz mit alkoholischen Getränken als mit Benzin. Und wer vom Tankwart tatsächlich einmal aus Altersgründen weggeschickt wird, schickt eben einen über 18-Jährigen vor. Überall treffe ich um ein Uhr nachts in der Fußgängerzone betrunkene Jugendliche, überhaupt ist um diese Zeit keiner mehr nüchtern – außer der Polizei. Die rast von einer Schlägerei zwischen Besoffenen zur nächsten.
+
+
+
+
+
+
+
