@@ -22,3 +22,8 @@ jobs:
       with:
         name: Artifact download
         path: ${{ github.workspace }}/_site
+        
+    - uses: actions/upload-artifact@v2
+      with:
+       name: screenshot
+       path: /home/runner/work/_temp/_github_home/screenshot.png
