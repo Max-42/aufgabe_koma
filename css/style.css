@@ -7,12 +7,41 @@ body{
     background-size: 100px;
 
 }
+
 #ueberschrift{
+    width: 600px;
     margin-left: 110px;
+    
 }
 #bilder{
     margin-left: 110px;
+    width: 600px;
+    display: block;
+    height: auto;
+    font-size: 0px; /*Um den Amstand zwichen den bildern zu entfernen ohne den Carriage Return zu enfernen. */
 }
+    #bilder > img{
+        width: 200px;
+        
+    }
+
 #text{
+    width: 600px;
     margin-left: 110px;
+    text-align: justify;
+}
+h1{
+    font-weight: bold;
+    margin: 0;
+}
+h3{
+    margin: 0;
+    text-decoration: underline;
+    font-variant: small-caps;
+}
+p{
+    margin: 0;
+}
+#start{
+    font-weight: bold;
 }
