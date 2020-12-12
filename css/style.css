@@ -4,6 +4,7 @@ body{
     background-image: url(/images/komasaufen02.png);
     background-repeat: repeat-y;
     background-position: left;
+    background-size: 100px;
 
 }
 #ueberschrift{
@@ -12,6 +13,6 @@ body{
 #bilder{
     margin-left: 110px;
 }
-#textt{
+#text{
     margin-left: 110px;
 }
