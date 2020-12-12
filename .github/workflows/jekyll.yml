@@ -20,5 +20,5 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
     - uses: actions/upload-artifact@v2
       with:
-        name: Artifact download
+        name: Artifact-Download
         path: ${{ github.workspace }}/_site
