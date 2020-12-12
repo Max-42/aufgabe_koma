@@ -1,4 +1,17 @@
 body{
     background-color: #ffff99;
     font-family: sans-serif;
+    background-image: url(/images/komasaufen02.png);
+    background-repeat: repeat-y;
+    background-position: left;
+
+}
+#ueberschrift{
+    margin-left: 110px;
+}
+#bilder{
+    margin-left: 110px;
+}
+#textt{
+    margin-left: 110px;
 }
