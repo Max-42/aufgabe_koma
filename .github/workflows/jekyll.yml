@@ -21,4 +21,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: Artifact-Download
-        paths: '${{ github.workspace }}/_site', '!${{ github.workspace }}/_site/CNAME'
+        path: ${{ github.workspace }}/_site
